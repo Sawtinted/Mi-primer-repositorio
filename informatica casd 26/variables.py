@@ -3,8 +3,8 @@
 varias lineas"""
 
 #inicializando variables
-nombre="nombre del estudiante"
-edad=58
+nombre="imanol andres londoño diaz"
+edad=15
 estado=True
 nota=5.0
 
